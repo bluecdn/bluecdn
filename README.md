@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="./assets/bluecdn-avatar.png" width="120" height="120" alt="BlueCDN" />
+  <a href="https://bluecdn.com">
+    <img src="./assets/bluecdn-avatar.png" width="120" height="120" alt="BlueCDN" />
+  </a>
 
   <h1>BlueCDN</h1>
 
@@ -8,8 +10,6 @@
   </p>
 
   <p>
-    <a href="https://bluecdn.com"><strong>bluecdn.com</strong></a>
-    ·
     <a href="https://static.bluecdn.com">Static CDN</a>
     ·
     <a href="https://gravatar.bluecdn.com">Avatar Proxy</a>
