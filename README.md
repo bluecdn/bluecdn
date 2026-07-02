@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://bluecdn.com">
-    <img src="./assets/bluecdn-avatar.png" width="120" height="120" alt="BlueCDN" />
+    <img src="./assets/bluecdn-logo.svg" width="120" height="120" alt="BlueCDN" />
   </a>
 
   <h1>BlueCDN</h1>
